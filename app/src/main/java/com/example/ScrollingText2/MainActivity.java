@@ -1,8 +1,10 @@
-package com.example.scrollingtext;
+package com.example.ScrollingText2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.ScrollingText2.R;
 
 public class MainActivity extends AppCompatActivity {
 
